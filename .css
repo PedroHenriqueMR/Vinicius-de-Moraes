@@ -1,0 +1,37 @@
+body{
+background-color: rgba(175, 129, 28, 0.795);
+}
+
+.nav-tabs{
+    background-color: rgba(72, 196, 228, 0.267) ;
+}
+
+.text1{
+    color:rgb(41, 32, 32);
+    font-family: emoji;
+    font-size: 40px;
+    padding: 1 1%;
+}
+
+.o{
+    font-size: 40px;
+    font-family: emoji;
+}
+
+.p{
+    font-size: 26px;
+    font-family: emoji;
+    padding: 0 5%;
+}
+
+
+.i{
+    font-size: 26px;
+    font-family: emoji;
+    padding: 0 8%;
+}
+
+.title{
+    font-size: 40px;
+    font-family: emoji;
+}
